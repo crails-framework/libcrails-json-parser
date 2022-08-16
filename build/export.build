@@ -1,0 +1,6 @@
+$out_root/
+{
+  include libcrails-json-parser/
+}
+
+export $out_root/libcrails-json-parser/$import.target
